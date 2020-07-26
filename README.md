@@ -14,9 +14,6 @@
 <img src="https://img.icons8.com/color/48/000000/openstack.png"/> OpenStack and Terraform<br>
 <img src="https://img.icons8.com/windows/32/000000/redhat.png"/> RHEL8 <br>
 
-<div id="sfcj7b7z5zteg2fdfw1j8s3ebxy8d3t2d1y"></div>
-<noscript><a href="https://www.freecounterstat.com" title="free website hit counters"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=j7b7z5zteg2fdfw1j8s3ebxy8d3t2d1y" border="0" title="free website hit counters" alt="free website hit counters"></a></noscript>
-
 ## About Me
 
 - 🔭 I’m currently a student ar University of Hyderabad, India
