@@ -7,9 +7,13 @@
 
 - 🔭 I’m currently a student ar University of Hyderabad, India
 - 🌱 I’m currently learning a lot of courses
-- 💬 Ask me about RedhatLinux8, Git, Jenkins, Docker, Flutter, Machine Learning, Kubernetes, AWS, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
+- 💬 Ask me about RHEL8, Git, Jenkins, Docker, Flutter, Machine Learning, Kubernetes, AWS, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
 - 📫 How to reach me: meherchaitanya18802@gmail.com
 - ⚡ Fun fact: I like Star Wars, Lord Of The Rings and Avengers
+
+## Follow me
+- [LinkedIn](https://www.linkedin.com/in/meher-chaitanya-341567193/)
+- [Reddit](https://www.reddit.com/user/smc181002)
 
 <!--
 **smc181002/smc181002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
