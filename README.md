@@ -1,21 +1,26 @@
-### Hello There 👋 
+### Hello There, I am Meher Chaitanya 👋 
 <p align="center">
   <img alt="Hello There" src="https://raw.githubusercontent.com/smc181002/smc181002/master/bluegif.gif"  />
 </p>
 <b>FYI - my Eyes are not purple</b>
 
+<p align="center">
+   <a href="https://twitter.com/MeherCh71238001"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MeherCh71238001?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@MeherCh71238001"></a>
+   
+   </p>
+
 ## Quarantine Skills Developed
 
-<img src="https://img.icons8.com/color/48/000000/jenkins.png"/> Jenkins <br> 
-<img src="https://img.icons8.com/color/48/000000/git.png"/> Git <br>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> Kubernetes <br>
-<img src="https://img.icons8.com/color/48/000000/performance-monitoring.png"/> Prometheus, Grafana, ELK stack <br>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> AWS and Terraform <br>
-<img src="https://img.icons8.com/color/48/000000/openstack.png"/> OpenStack and Terraform<br>
-<img src="https://img.icons8.com/windows/48/000000/redhat.png"/> RHEL8 <br>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter<br>
-<img src="https://code.benco.io/icon-collection/logos/ansible.svg" width="42px" />Ansible<br>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>Python<br>
+<img src="https://img.icons8.com/color/36/000000/jenkins.png"/> Jenkins <br> 
+<img src="https://img.icons8.com/color/36/000000/git.png"/> Git <br>
+<img src="https://img.icons8.com/color/36/000000/kubernetes.png"/> Kubernetes <br>
+<img src="https://img.icons8.com/color/36/000000/performance-monitoring.png"/> Prometheus, Grafana, ELK stack <br>
+<img src="https://img.icons8.com/color/36/000000/amazon-web-services.png"/> AWS and Terraform <br>
+<img src="https://img.icons8.com/color/36/000000/openstack.png"/> OpenStack and Terraform<br>
+<img src="https://img.icons8.com/windows/36/000000/redhat.png"/> RHEL8 <br>
+<img src="https://img.icons8.com/color/36/000000/flutter.png"/> Flutter<br>
+<img src="https://code.benco.io/icon-collection/logos/ansible.svg" width="32px" />Ansible<br>
+<img src="https://img.icons8.com/color/36/000000/python.png"/>Python<br>
 
 ## About Me
 
@@ -39,6 +44,13 @@
   <img src="https://img.icons8.com/color/48/000000/reddit.png"/>
 </a>
 
+## My Github Stats
+
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=smc181002&&show_icons=true"/>
+  </a>
+</p>
 
 <!--
 **smc181002/smc181002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
