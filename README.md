@@ -10,8 +10,8 @@
    <a href="https://github.com/smc181002"><img alt="Reddit karma" src="https://img.shields.io/github/watchers/smc181002/smc181002?label=github%20watchers&style=for-the-badge"></a>
    </p>
 
+<!--
 ## Quarantine Skills Developed
-
 <img src="https://img.icons8.com/color/36/000000/jenkins.png"/> Jenkins <br> 
 <img src="https://img.icons8.com/color/36/000000/git.png"/> Git <br>
 <img src="https://img.icons8.com/color/36/000000/kubernetes.png"/> Kubernetes <br>
@@ -22,6 +22,9 @@
 <img src="https://img.icons8.com/color/36/000000/flutter.png"/> Flutter<br>
 <img src="https://code.benco.io/icon-collection/logos/ansible.svg" width="32px" />Ansible<br>
 <img src="https://img.icons8.com/color/36/000000/python.png"/>Python<br>
+-->
+
+---
 
 ## About Me
 
@@ -30,6 +33,15 @@
 - 💬 Ask me about RHEL8, Git, Jenkins, Docker, Flutter, Machine Learning, Kubernetes, AWS, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
 - 📫 How to reach me: meherchaitanya18802@gmail.com, linuxusr69@gmail.com (alternative)
 - ⚡ Fun fact: QWERTY keyboards are created to decrease the typing speed increasing the efficiency of hardware 
+
+---
+
+## 📕 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 ## Follow me
 <a href="https://twitter.com/MeherCh71238001">
