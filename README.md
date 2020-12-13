@@ -38,7 +38,9 @@
 
 ## 📕 Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
+- [Launch Web server with Docker and Ansible automation](https://smc181002.hashnode.dev/web-server-docker-and-ansible)
+- [Industry Applications of Ansible](https://smc181002.hashnode.dev/industry-applications-of-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
