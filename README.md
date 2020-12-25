@@ -39,6 +39,7 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making the apache HTPPD server automation idempotent](https://smc181002.hashnode.dev/making-the-apache-htppd-server-automation-idempotent)
 - [Setting up Hadoop File System with Ansible](https://smc181002.hashnode.dev/setting-hadoop-fs-with-ansible)
 - [Launch Web server with Docker and Ansible automation](https://smc181002.hashnode.dev/web-server-docker-and-ansible)
 - [Industry Applications of Ansible](https://smc181002.hashnode.dev/industry-applications-of-ansible)
