@@ -39,10 +39,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS EC2 with HAProxy and Apache Httpd for load balancing](https://medium.com/@smc181002/aws-ec2-with-haproxy-and-apache-httpd-for-load-balancing-4174dd8bda41?source=rss-ee5d12b9cb1a------2)
+- [Creating Load Balancer with HAProxy server and Apache httpd servers.](https://medium.com/@smc181002/creating-load-balancer-with-haproxy-server-and-apache-httpd-servers-ecb7c6b44489?source=rss-ee5d12b9cb1a------2)
 - [Making the apache HTPPD server automation idempotent](https://smc181002.hashnode.dev/making-the-apache-htppd-server-automation-idempotent)
 - [Setting up Hadoop File System with Ansible](https://smc181002.hashnode.dev/setting-hadoop-fs-with-ansible)
 - [Launch Web server with Docker and Ansible automation](https://smc181002.hashnode.dev/web-server-docker-and-ansible)
-- [Industry Applications of Ansible](https://smc181002.hashnode.dev/industry-applications-of-ansible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
