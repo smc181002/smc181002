@@ -39,11 +39,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Network Setup to Allow only be able to connect to google servers](https://medium.com/@smc181002/network-setup-to-allow-only-be-able-to-connect-to-google-servers-10cecea771ca?source=rss-ee5d12b9cb1a------2)
 - [Use cases of Neural Networks](https://medium.com/@smc181002/use-cases-of-neural-networks-86977d8cb78e?source=rss-ee5d12b9cb1a------2)
 - [Industrial Use Cases of Azure Kubernetes Service](https://medium.com/@smc181002/industrial-use-cases-of-azure-kubernetes-service-20a3ac0a4ce5?source=rss-ee5d12b9cb1a------2)
 - [Message Queue Implementation with Amazon MQ](https://medium.com/@smc181002/message-queue-implementation-with-amazon-mq-7d7b54103964?source=rss-ee5d12b9cb1a------2)
 - [Setting up Hadoop File System with Ansible](https://medium.com/@smc181002/setting-up-hadoop-file-system-with-ansible-705fe53bec25?source=rss-ee5d12b9cb1a------2)
-- [AWS EC2 with HAProxy and Apache Httpd for load balancing](https://medium.com/@smc181002/aws-ec2-with-haproxy-and-apache-httpd-for-load-balancing-4174dd8bda41?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
