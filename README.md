@@ -39,11 +39,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenShift Industry Use Cases](https://medium.com/@smc181002/openshift-industry-use-cases-b20ca056de9c?source=rss-ee5d12b9cb1a------2)
-- [Jenkins: Industry Use cases](https://medium.com/@smc181002/jenkins-industry-use-cases-a7d82740350a?source=rss-ee5d12b9cb1a------2)
-- [Ansible Role automation for HAProxy server](https://medium.com/@smc181002/ansible-role-automation-for-haproxy-server-c441e4fe3478?source=rss-ee5d12b9cb1a------2)
-- [Network Setup to Allow only be able to connect to google servers](https://medium.com/@smc181002/network-setup-to-allow-only-be-able-to-connect-to-google-servers-10cecea771ca?source=rss-ee5d12b9cb1a------2)
-- [Use cases of Neural Networks](https://medium.com/@smc181002/use-cases-of-neural-networks-86977d8cb78e?source=rss-ee5d12b9cb1a------2)
+- [OpenShift Industry Use Cases](https://smc181002.medium.com/openshift-industry-use-cases-b20ca056de9c?source=rss-ee5d12b9cb1a------2)
+- [Jenkins: Industry Use cases](https://smc181002.medium.com/jenkins-industry-use-cases-a7d82740350a?source=rss-ee5d12b9cb1a------2)
+- [Ansible Role automation for HAProxy server](https://smc181002.medium.com/ansible-role-automation-for-haproxy-server-c441e4fe3478?source=rss-ee5d12b9cb1a------2)
+- [Network Setup to Allow only be able to connect to google servers](https://smc181002.medium.com/network-setup-to-allow-only-be-able-to-connect-to-google-servers-10cecea771ca?source=rss-ee5d12b9cb1a------2)
+- [Use cases of Neural Networks](https://smc181002.medium.com/use-cases-of-neural-networks-86977d8cb78e?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
