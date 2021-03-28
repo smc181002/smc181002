@@ -39,11 +39,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically changing variables based on OS distro in Ansible Playbook](https://smc181002.medium.com/dynamically-changing-variables-based-on-os-distro-in-ansible-playbook-6338cb4793ce?source=rss-ee5d12b9cb1a------2)
+- [Creating a Network Topology such that A can connect to B and C but B and C can only connect to A](https://smc181002.medium.com/creating-a-network-topology-such-that-a-can-connect-to-b-and-c-but-b-and-c-can-only-connect-to-a-28c64589be3f?source=rss-ee5d12b9cb1a------2)
 - [Running GUI application in Docker with Xming](https://smc181002.medium.com/running-gui-application-in-docker-with-xming-e9d81c5600e?source=rss-ee5d12b9cb1a------2)
 - [OpenShift Industry Use Cases](https://smc181002.medium.com/openshift-industry-use-cases-b20ca056de9c?source=rss-ee5d12b9cb1a------2)
 - [Jenkins: Industry Use cases](https://smc181002.medium.com/jenkins-industry-use-cases-a7d82740350a?source=rss-ee5d12b9cb1a------2)
-- [Ansible Role automation for HAProxy server](https://smc181002.medium.com/ansible-role-automation-for-haproxy-server-c441e4fe3478?source=rss-ee5d12b9cb1a------2)
-- [Network Setup to Allow only be able to connect to google servers](https://smc181002.medium.com/network-setup-to-allow-only-be-able-to-connect-to-google-servers-10cecea771ca?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
