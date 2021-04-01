@@ -29,10 +29,10 @@
 ## About Me
 
 - 🔭 I’m currently a student ar University of Hyderabad, India
-- 🌱 I’m currently learning a lot of courses
-- 💬 Ask me about RHEL8, Git, Jenkins, Docker, Flutter, Machine Learning, Kubernetes, AWS, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
-- 📫 How to reach me: meherchaitanya18802@gmail.com, linuxusr69@gmail.com (alternative)
-- ⚡ Fun fact: QWERTY keyboards are created to decrease the typing speed increasing the efficiency of hardware 
+- 🌱 I’m currently in search for internships based on DevOps and Cloud Computing
+- 💬 Ask me about Ansible, Jenkins, Docker, OpenShift, Kubernetes, AWS, RHEL8, Git, Flutter, Machine Learning, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
+- 📫 How to reach me: meherchaitanya18802@gmail.com, 19mcme12@uohyd.ac.in (alternative)
+- ⚡ Fun fact: QWERTY keyboards are created in such a way that the usage of both hands is balanced 
 
 ---
 
