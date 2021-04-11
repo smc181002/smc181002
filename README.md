@@ -39,11 +39,11 @@
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launching Kubernetes with Ansible roles](https://smc181002.medium.com/launching-kubernetes-with-ansible-roles-5f53b91d8f20?source=rss-ee5d12b9cb1a------2)
 - [Configuring docker containers with ansible via SSH](https://smc181002.medium.com/configuring-docker-containers-with-ansible-via-ssh-b7eb5b672b27?source=rss-ee5d12b9cb1a------2)
 - [Dynamically changing variables based on OS distro in Ansible Playbook](https://smc181002.medium.com/dynamically-changing-variables-based-on-os-distro-in-ansible-playbook-6338cb4793ce?source=rss-ee5d12b9cb1a------2)
 - [Creating a Network Topology such that A can connect to B and C but B and C can only connect to A](https://smc181002.medium.com/creating-a-network-topology-such-that-a-can-connect-to-b-and-c-but-b-and-c-can-only-connect-to-a-28c64589be3f?source=rss-ee5d12b9cb1a------2)
 - [Running GUI application in Docker with Xming](https://smc181002.medium.com/running-gui-application-in-docker-with-xming-e9d81c5600e?source=rss-ee5d12b9cb1a------2)
-- [OpenShift Industry Use Cases](https://smc181002.medium.com/openshift-industry-use-cases-b20ca056de9c?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
