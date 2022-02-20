@@ -5,7 +5,7 @@
 <b>FYI - my Eyes are not purple</b>
 
 <p align="center">
-   <a href="https://twitter.com/MeherCh71238001"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MeherCh71238001?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@MeherCh71238001"></a>
+   <a href="https://twitter.com/smc181002"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/smc181002?style=for-the-badge&color=09f&logo=twitter&label=@smc181002"></a>
    <a href="https://www.reddit.com/user/smc181002"><img alt="Reddit karma" src="https://img.shields.io/reddit/user-karma/combined/smc181002?style=for-the-badge"></a>
    <a href="https://github.com/smc181002"><img alt="Reddit karma" src="https://img.shields.io/github/watchers/smc181002/smc181002?label=github%20watchers&style=for-the-badge"></a>
    </p>
