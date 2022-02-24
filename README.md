@@ -19,8 +19,7 @@
 ## About Me
 
 - 🔭 I’m currently a student ar University of Hyderabad, India
-- 🌱 I’m currently in search for internships based on DevOps and Cloud Computing
-- 💬 Ask me about Ansible, Jenkins, Docker, OpenShift, Kubernetes, AWS, RHEL8, Git, Flutter, Machine Learning, OpenStack, Terraform, Python, Javascript (not Java), Reactjs
+- 💬 Ask me about Jenkins, Docker, Kubernetes, AWS, RHEL8, Git, Terraform, Python, Javascript (not Java), Svelete
 - 📫 How to reach me: meherchaitanya18802@gmail.com, 19mcme12@uohyd.ac.in (alternative)
 - ⚡ Fun fact: QWERTY keyboards are created in such a way that the usage of both hands is balanced 
 ---
@@ -38,7 +37,7 @@
 ---
 
 ## Follow me
-<a href="https://twitter.com/MeherCh71238001">
+<a href="https://twitter.com/smc181002">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/meher-chaitanya-341567193/">
