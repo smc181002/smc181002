@@ -1,6 +1,6 @@
 ## Hello There, I am Meher Chaitanya 👋 
 <p align="center">
-  <img alt="Hello There" src="https://raw.githubusercontent.com/smc181002/smc181002/master/smc_cropped.png"  />
+  <img alt="Hello There" src="./smc_cropped.png"  />
 </p>
 <p align="center">
    <a href="https://twitter.com/smc181002">
