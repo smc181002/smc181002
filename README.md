@@ -14,6 +14,8 @@
    </a>
 </p>
 
+check out my hub of links at [**bio.link**](https://smc181002.bio.link/)
+
 ---
 
 ## About Me
