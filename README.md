@@ -29,11 +29,11 @@ check out my hub of links at [**bio.link**](https://smc181002.bio.link/)
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eliminate vendor lock-in of Serverless workloads with OpenFaaS](https://awstip.com/eliminate-vendor-lock-in-of-serverless-workloads-with-openfaas-474807383ce1?source=rss-ee5d12b9cb1a------2)
 - [Creating Terraform module for AWS VPC creation](https://smc181002.medium.com/creating-terraform-module-for-aws-vpc-creation-fa2e5d0f3e3e?source=rss-ee5d12b9cb1a------2)
 - [Managed MySQL with Amazon RDS](https://smc181002.medium.com/managed-mysql-with-amazon-rds-a56f7fab8b55?source=rss-ee5d12b9cb1a------2)
 - [Launching Kubernetes with Ansible roles](https://smc181002.medium.com/launching-kubernetes-with-ansible-roles-5f53b91d8f20?source=rss-ee5d12b9cb1a------2)
 - [Configuring docker containers with ansible via SSH](https://smc181002.medium.com/configuring-docker-containers-with-ansible-via-ssh-b7eb5b672b27?source=rss-ee5d12b9cb1a------2)
-- [Dynamically changing variables based on OS distro in Ansible Playbook](https://smc181002.medium.com/dynamically-changing-variables-based-on-os-distro-in-ansible-playbook-6338cb4793ce?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
