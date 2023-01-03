@@ -29,6 +29,7 @@ To demonstrate my skills and knowledge, I have built several mini projects at an
 In addition to my work on these projects, I also enjoy sharing my knowledge and expertise through blogging. I write about the concepts and technologies that I have mastered in order to help others learn and grow, as well as to give back to the tech community.
 
 Overall, I am a driven and ambitious individual with a strong desire to make a positive impact in the tech industry. I am excited to see where my passions and skills will take me in the future, and I am always open to new opportunities to learn and grow as a developer
+
 ---
 
 ## 📕 Recent Blog Posts
