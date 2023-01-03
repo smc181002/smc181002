@@ -20,10 +20,15 @@ check out my hub of links at [**bio.link**](https://smc181002.bio.link/)
 
 ## About Me
 
-- 🔭 I’m currently a student ar University of Hyderabad, India
-- 💬 Ask me about Jenkins, Docker, Kubernetes, AWS, RHEL8, Git, Terraform, Python, Javascript (not Java), Svelete
-- 📫 How to reach me: meherchaitanya18802@gmail.com, 19mcme12@uohyd.ac.in (alternative)
-- ⚡ Fun fact: QWERTY keyboards are created in such a way that the usage of both hands is balanced 
+Hi! My name is Meher Chaitanya and I am currently a 4th year student at the University of Hyderabad, pursuing my I.M.Tech degree. I have a strong background in devops and cloud computing, and have gained hands-on experience working with various tools and technologies in these areas. Some of the devops tools that I have worked with include containers with Kubernetes and OpenShift, and CI/CD with Jenkins. In the realm of cloud computing, I have experience working with tools such as AWS, OpenFaaS, and Minio.
+
+In addition to my passion for devops and cloud computing, I am also interested in learning new programming languages such as Rust and Go. I believe that staying current with the latest technologies and tools is essential for success in the tech industry, and I am constantly seeking out new ways to improve my skills and knowledge.
+
+To demonstrate my skills and knowledge, I have built several mini projects at an industry level. These projects have allowed me to apply my skills and knowledge in a practical setting, and have given me valuable experience working on real-world problems.
+
+In addition to my work on these projects, I also enjoy sharing my knowledge and expertise through blogging. I write about the concepts and technologies that I have mastered in order to help others learn and grow, as well as to give back to the tech community.
+
+Overall, I am a driven and ambitious individual with a strong desire to make a positive impact in the tech industry. I am excited to see where my passions and skills will take me in the future, and I am always open to new opportunities to learn and grow as a developer
 ---
 
 ## 📕 Recent Blog Posts
