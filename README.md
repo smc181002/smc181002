@@ -34,11 +34,11 @@ Overall, I am a driven and ambitious individual with a strong desire to make a p
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Loops in Network can be solved with STP &lpar;Using 7 switches in topology&rpar;](https://smc181002.medium.com/how-loops-in-network-can-be-solved-with-stp-using-7-switches-in-topology-c54ae3b040cb?source=rss-ee5d12b9cb1a------2)
 - [Eliminate vendor lock-in of Serverless workloads with OpenFaaS](https://awstip.com/eliminate-vendor-lock-in-of-serverless-workloads-with-openfaas-474807383ce1?source=rss-ee5d12b9cb1a------2)
 - [Creating Terraform module for AWS VPC creation](https://smc181002.medium.com/creating-terraform-module-for-aws-vpc-creation-fa2e5d0f3e3e?source=rss-ee5d12b9cb1a------2)
 - [Managed MySQL with Amazon RDS](https://smc181002.medium.com/managed-mysql-with-amazon-rds-a56f7fab8b55?source=rss-ee5d12b9cb1a------2)
 - [Launching Kubernetes with Ansible roles](https://smc181002.medium.com/launching-kubernetes-with-ansible-roles-5f53b91d8f20?source=rss-ee5d12b9cb1a------2)
-- [Configuring docker containers with ansible via SSH](https://smc181002.medium.com/configuring-docker-containers-with-ansible-via-ssh-b7eb5b672b27?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
