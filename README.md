@@ -35,11 +35,11 @@ Overall, I am a driven and ambitious individual with a strong desire to make a p
 ## 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Forensics with AVML and Volatility3 Framework](https://smc181002.github.io/project/avml-and-volatility3/)
+- [Analysing memory in Linux with the volatility3 and AVML](https://smc181002.me/project/avml-and-volatility3/)
 - [How Loops in Network can be solved with STP &lpar;Using 7 switches in topology&rpar;](https://smc181002.medium.com/how-loops-in-network-can-be-solved-with-stp-using-7-switches-in-topology-c54ae3b040cb?source=rss-ee5d12b9cb1a------2)
-- [Revolutionize Donations with Smart contracts](https://smc181002.github.io/project/transparent-charity-donations/)
+- [Building Smart Contracts for Transparent Charity Donations](https://smc181002.me/project/transparent-charity-donations/)
 - [Eliminate vendor lock-in of Serverless workloads with OpenFaaS](https://awstip.com/eliminate-vendor-lock-in-of-serverless-workloads-with-openfaas-474807383ce1?source=rss-ee5d12b9cb1a------2)
-- [Providing Production level MongoDB as a Service &lpar;MaaS/DaaS&rpar;](https://smc181002.github.io/project/mongodb-as-a-service-maas/)
+- [MaaS - Dynamic Kubernetes of production MongoDB Sharded Database](https://smc181002.me/project/mongodb-as-a-service-maas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
