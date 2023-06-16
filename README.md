@@ -1,6 +1,11 @@
 ## Hello There, I am Meher Chaitanya 👋 
 <p align="center">
-  <img alt="Hello There" src="./smc_cropped.png"  />
+  <a href="https://ceoldevs.github.io/#gh-light-mode-only" target="_blank">
+    <img src="./cover-light.png" alt="CEOL">
+  </a>
+  <a href="https://ceoldevs.github.io/#gh-dark-mode-only" target="_blank">
+    <img src="./cover-dark.png" alt="CEOL" >
+  </a>
 </p>
 <p align="center">
    <a href="https://twitter.com/smc181002">
