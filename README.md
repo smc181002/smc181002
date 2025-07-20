@@ -42,9 +42,7 @@ Overall, I am a driven and ambitious individual with a strong desire to make a p
 <!-- BLOG-POST-LIST:START -->
 - [Visual Data Generator](https://smc181002.github.io/work/visual-data-generator/)
 - [Memory Analysis - AVML and Volatility](https://smc181002.github.io/work/avml-and-volatility3/)
-- [How Loops in Network can be solved with STP &lpar;Using 7 switches in topology&rpar;](https://smc181002.medium.com/how-loops-in-network-can-be-solved-with-stp-using-7-switches-in-topology-c54ae3b040cb?source=rss-ee5d12b9cb1a------2)
 - [Smart Contract for Transparent Donations](https://smc181002.github.io/work/transparent-charity-donations/)
-- [Eliminate vendor lock-in of Serverless workloads with OpenFaaS](https://awstip.com/eliminate-vendor-lock-in-of-serverless-workloads-with-openfaas-474807383ce1?source=rss-ee5d12b9cb1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
