@@ -4,7 +4,8 @@
 
 ## About Me
 
-Hi! My name is Meher Chaitanya. I am a Software engineer at GE Vernova based in Hyderabad, India. 
+Hi! My name is Meher Chaitanya. I am a Software engineer
+at GE Vernova based in Hyderabad, India. 
 
 ---
 
@@ -24,7 +25,7 @@ Hi! My name is Meher Chaitanya. I am a Software engineer at GE Vernova based in 
 <a href="https://twitter.com/smc181002">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/meher-chaitanya-341567193/">
+<a href="www.linkedin.com/in/nsmcv18">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/smc181002/">  
